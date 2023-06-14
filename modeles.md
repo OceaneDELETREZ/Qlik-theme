@@ -1,5 +1,5 @@
 
-### Boite à moustache
+# Boîte à moustache
 ```json
 "boxPlot": {
   "backgroundColor": "@light",
@@ -57,3 +57,4 @@
   }
 }
 ```
+</details>
