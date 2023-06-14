@@ -1,0 +1,7 @@
+{
+    "name" : "Theme tutoriel",
+    "description" : "Test du theme tutoriel acssi"
+    "type": "theme",
+    "version" : "1.0.0",
+    "author"  : "Prénom - Nom "
+}
