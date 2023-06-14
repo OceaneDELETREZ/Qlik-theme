@@ -32,4 +32,3 @@
            "classRef": "jo-theme"
         }
     ]
-    ```
