@@ -1,3 +1,10 @@
+ # Structure vide
+ ```json
+"palettes": {  
+    "data": [],
+    "ui": [] 
+ }
+  ```
  # Exemple structure palette
 
 ```json
