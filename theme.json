@@ -1,0 +1,38 @@
+{
+   "_inherit":true,
+   "_variables":{
+      "@greenColor":"#61a729",
+      "@TextColor":"#4c4c4c",
+      "@BackgroundColor":"ffffff",
+      "@TextSize":"12px"
+   },
+   "customStyles":[
+      {
+         "cssRef":"theme.css",
+         "classRef":"theme-style"
+      }
+   ],
+   "fontFamily":[
+      
+   ],
+   "color":"#ffffff",
+   "fontSize":"@TextSize",
+   "backgroundColor":"@BackgroundColor",
+   "object":{
+      "title":{
+         "main":{
+            "fontSize":"16px"
+         }
+      }
+   },
+   "dataColors":{
+      "primaryColor":"#00345F",
+      "othersColor":"#e0cd1e",
+      "errorColor":[
+         
+      ],
+      "nullColor":[
+         
+      ]
+   }
+}
