@@ -5,7 +5,15 @@
     "ui": [] 
  }
   ```
-
+ # Exemple structure dataColors
+ ```json
+"dataColors":{
+   "primaryColor":"#00345F",
+   "othersColor":"#e0cd1e",
+   "errorColor":"#FF0000",
+   "nullColor":"#FFFF00"
+}
+```
  # Exemple structure palette
 ```json
  "palettes": {
